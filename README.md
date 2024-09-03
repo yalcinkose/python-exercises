@@ -1,2 +1,2 @@
 # python-exercises
-This is my first python repository
+This is about some basic python code exercises.  
